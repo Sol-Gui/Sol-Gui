@@ -1,5 +1,13 @@
-## Hi there 👋
+# Hi, I'm Guilherme 👋
+<h3> 👾 About me </h3>
 
+- 🔖 English Level: B1 (CEFR) – Completed
+- 💻 Currently learning Java
+- 🧊 Highly interested in blockchain technology
+
+## Tech stack
+
+## Socials
 <!--
 **Sol-Gui/Sol-Gui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
