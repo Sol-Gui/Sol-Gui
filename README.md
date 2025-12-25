@@ -12,7 +12,39 @@
 <h2>Tech Stack</h2>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,java,ts,js,nodejs,react,mongo" height="55" />
+  <table>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=py" height="55" width="55" /><br>
+      Python
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java" height="55" width="55"/><br>
+      Java
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=ts" height="55" width="55"/><br>
+      TypeScript
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=js" height="55" width="55"/><br>
+      JavaScript
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs" height="55" width="55"/><br>
+      Node.js
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react" height="55" width="55"/><br>
+      React
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mongo" height="55" width="55"/><br>
+      MongoDB
+    </td>
+  </tr>
+</table>
+
 </p>
 
 ---
