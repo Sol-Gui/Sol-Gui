@@ -2,8 +2,8 @@
 
 <h3>👾 About me</h3>
 
--  💻 Currently learning <b>Java</b> and <b>Rust</b><br>
--  🧊 Highly interested in <b>Blockchain Technology</b><br>
+-  💻 Currently learning <b>Java</b><br>
+-  🧊 Highly interested in <b>Blockchain Technology</b> and <b>Rust<b><br>
 -  🔖 English Level: <b>B1 (CEFR)</b> - Completed
 -  📂 For more details, check my <a href="portfolio" target="_blank">portfolio</a>
 
@@ -21,10 +21,6 @@
     <td align="center">
       <img src="https://skillicons.dev/icons?i=java" height="55" width="55"/><br>
       Java
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=rust" height="55" width="55"/><br>
-      Rust
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=ts" height="55" width="55"/><br>
