@@ -2,7 +2,7 @@
 
 <h3>👾 About me</h3>
 
--  💻 Currently learning <b>Java</b><br>
+-  💻 Currently learning <b>Java</b> and <b>Rust</b><br>
 -  🧊 Highly interested in <b>Blockchain Technology</b><br>
 -  🔖 English Level: <b>B1 (CEFR)</b> - Completed
 -  📂 For more details, check my <a href="portfolio" target="_blank">portfolio</a>
@@ -15,31 +15,35 @@
   <table>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=py" height="55" width="55" /><br>
+      <img src="https://skillicons.dev/icons?i=py" height="40" width="40" /><br>
       Python
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=java" height="55" width="55"/><br>
+      <img src="https://skillicons.dev/icons?i=java" height="40" width="40"/><br>
       Java
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=ts" height="55" width="55"/><br>
+      <img src="https://skillicons.dev/icons?i=rust" height="40" width="40"/><br>
+      Rust
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=ts" height="40" width="40"/><br>
       TypeScript
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=js" height="55" width="55"/><br>
+      <img src="https://skillicons.dev/icons?i=js" height="40" width="40"/><br>
       JavaScript
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs" height="55" width="55"/><br>
+      <img src="https://skillicons.dev/icons?i=nodejs" height="40" width="40"/><br>
       Node.js
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react" height="55" width="55"/><br>
+      <img src="https://skillicons.dev/icons?i=react" height="40" width="40"/><br>
       React
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=mongo" height="55" width="55"/><br>
+      <img src="https://skillicons.dev/icons?i=mongo" height="40" width="40"/><br>
       MongoDB
     </td>
   </tr>
