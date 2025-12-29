@@ -15,35 +15,35 @@
   <table>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=py" height="40" width="40" /><br>
+      <img src="https://skillicons.dev/icons?i=py" height="55" width="55"/><br>
       Python
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=java" height="40" width="40"/><br>
+      <img src="https://skillicons.dev/icons?i=java" height="55" width="55"/><br>
       Java
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=rust" height="40" width="40"/><br>
+      <img src="https://skillicons.dev/icons?i=rust" height="55" width="55"/><br>
       Rust
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=ts" height="40" width="40"/><br>
+      <img src="https://skillicons.dev/icons?i=ts" height="55" width="55"/><br>
       TypeScript
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=js" height="40" width="40"/><br>
+      <img src="https://skillicons.dev/icons?i=js" height="55" width="55"/><br>
       JavaScript
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs" height="40" width="40"/><br>
+      <img src="https://skillicons.dev/icons?i=nodejs" height="55" width="55"/><br>
       Node.js
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react" height="40" width="40"/><br>
+      <img src="https://skillicons.dev/icons?i=react" height="55" width="55"/><br>
       React
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=mongo" height="40" width="40"/><br>
+      <img src="https://skillicons.dev/icons?i=mongo" height="55" width="55"/><br>
       MongoDB
     </td>
   </tr>
