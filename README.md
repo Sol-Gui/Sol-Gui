@@ -5,7 +5,7 @@
 -  💻 Currently learning <b>Java</b><br>
 -  🧊 Highly interested in <b>Blockchain Technology</b> and <b>Rust<b><br>
 -  🔖 English Level: <b>B1 (CEFR)</b> - Completed
--  📂 For more details, check my <a href="portfolio" target="_blank">portfolio</a>
+-  📂 For more details, check my <a href="https://sol-gui.github.io/portfolio/" target="_blank">portfolio</a>
 
 ---
 
