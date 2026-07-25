@@ -29,7 +29,7 @@
 <img
   align="right"
   width="200"
-  src="https://i.pinimg.com/736x/df/6c/ae/df6cae41f1000d0eac1cdf3018bc75e1.jpg"
+  src="raccoon.jpg"
 />
 
 **Student Backend Developer**
